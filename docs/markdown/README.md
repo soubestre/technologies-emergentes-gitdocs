@@ -1,5 +1,16 @@
 page.tsx:179 Button clicked - isSubmitting: false isPending: false isValid: false errors: {}
-page.tsx:45 onSubmit called with data: {community_id: 'df973056-29c2-41ec-b259-1fd85158bb1e', title: 'qsdqsd', folder_path: '', github_file_path: '', description: 'qsdqsdqsd', …}
+pag
+
+---
+
+
+```
+dqsdqdsqdsqsddsfd
+20. qsdsqdsq
+21. if 
+22. 
+```
+e.tsx:45 onSubmit called with data: {community_id: 'df973056-29c2-41ec-b259-1fd85158bb1e', title: 'qsdqsd', folder_path: '', github_file_path: '', description: 'qsdqsdqsd', …}
 page.tsx:60 Generating paths for title: qsdqsd
 page.tsx:70 Calling createGitDoc.mutateAsync with: {community_id: 'df973056-29c2-41ec-b259-1fd85158bb1e', title: 'qsdqsd', folder_**path: 'docs/qsdqsd', github_file_path**: 'docs/qsdqsd/README.md', description: 'qsdqsdqsd', …}
 forward-logs-shared.ts:95 [Fast Refresh] rebuilding
